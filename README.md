@@ -2,8 +2,9 @@
 - 🌱 I’m currently a senior at Colorado State University studying Applied Computing Technology 
 - 📫 How to reach me: Robertrolison99@gmail.com
 - :link: Link to: [Robert's Linkedin](https://www.linkedin.com/in/robert-rolison-233b69212/)
+- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobbyPrograms&langs_count=8&count-private=true)](https://github.com/RobbyPrograms/github-readme-stats)
 
-![Robby's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobbyPrograms&count_private=true&hide=stars,contribs)
 
 
 <!--
