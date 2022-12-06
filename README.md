@@ -18,6 +18,7 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#239120" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/TypeScript/#3178C6" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linux/#FCC624" />
 </ul>
 
 
