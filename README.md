@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently a DevOps Engineer at Colorado State University studying Applied Computing Technology 
+- 🌱 I’m currently a DevOps Engineer at Deloitte
 - 📫 How to reach me: Robertrolison99@gmail.com
 - :link: Link to: [Robert's Linkedin](https://www.linkedin.com/in/robert-rolison-233b69212/)
 
